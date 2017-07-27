@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ColorPicker",
+		"CSS Extended Completions",
+		"CSS3",
+		"Emmet",
+		"GitGutter",
+		"Grunt Snippets",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"JS Snippets",
+		"JsFormat",
+		"jshintify",
+		"MarkdownEditing",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"SideBarEnhancements"
+	]
+}

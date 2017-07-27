@@ -1,0 +1,6 @@
+[
+	{  
+        "keys": ["f4"],  
+        "command": "side_bar_files_open_with", "args": {"application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"/*此处为浏览器程序的位置*/, "extensions": ".*", "paths": []}  
+    }
+]
